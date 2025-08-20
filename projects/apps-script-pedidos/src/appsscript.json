@@ -1,15 +1,5 @@
 {
   "timeZone": "America/Argentina/Buenos_Aires",
   "exceptionLogging": "STACKDRIVER",
-  "runtimeVersion": "V8",
-  "dependencies": {
-    "libraries": [
-      {
-        "userSymbol": "Mails",
-        "version": "1",
-        "libraryId": "REDACTED",
-        "developmentMode": false
-      }
-    ]
-  }
+  "runtimeVersion": "V8"
 }
